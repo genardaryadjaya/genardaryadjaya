@@ -23,29 +23,17 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=genardaryadjaya&show_icons=true&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=genardaryadjaya&theme=tokyonight" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=genardaryadjaya&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ### 📫 Connect With Me
 <p align="left">
   <a href="mailto:genardaryadjaya@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://instagram.com/genardarya"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <!-- Optional: Uncomment if you have LinkedIn -->
-  <!-- <a href="https://linkedin.com/in/username"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <a href="https://linkedin.com/in/genardaryadjaya/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ### 💡 Fun Fact
-> "The best error message is the one that never shows up." – Thomas Fuchs
+> "The best error message is the one that never shows up." – Thomas Muller🇩🇪
 
 ---
 
